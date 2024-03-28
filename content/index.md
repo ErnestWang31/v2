@@ -8,10 +8,10 @@
 - [[Mechatronics Intern @ Paragon Systems]] - *developed end-of-line testers for Ford* 
 ##### Projects:
 *just making stuff i like*
-- [[Mini Desktop Arm]] - *an ongoing project i hope to encapsulate all my [[Engineering MOC|engineering]] knowledge - multiple small projects together*
+- [[Mini Desktop Arm]] - *an ongoing project i hope to encapsulate all my engineering knowledge - multiple small projects together*
 - [[Autonomous RC-Car]] - *researching ways to make a RC-Car move fast and by itself*
-- [[Simple Closed Loop Arduino-based Stepper Motor Driver]] - *i wanted to design a closed loop driver for all my future projects*
-- [[Portfolio Management with Deep Learning]] - *part of [[WatAI]] - make some money while learning [[Machine Learning*]]
+- [[Closed Loop Stepper Motor Driver]] - *i wanted to design a closed loop driver for all my future projects*
+- [[Portfolio Management with Deep Learning]] - *part of [[WatAI]]
 - [[Floor Cleaner Bot]] - *first year design project*
 ##### Interests:
 - I play [[Soccer]] - *team Ontario once apon a time*
