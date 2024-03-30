@@ -7,7 +7,7 @@
 - [[Batteries @ Midnight Sun]] - *battery development*
 - [[Mechatronics Intern @ Paragon Systems]] - *developed end-of-line testers for Ford and Chrysler* 
 ##### Projects: *making stuff that i like*
-- [[arm]] - *an ongoing project to encapsulate all my engineering knowledge - multiple small projects together and referencing various open-sourced projects* - [Github](https://github.com/ErnestWang31/arm)
+- [[arm]] - robotics arm project - *an ongoing project to encapsulate all my engineering knowledge - multiple small projects together and referencing various open-sourced projects* - [Github](https://github.com/ErnestWang31/arm)
 	- Currently consists of:
 		1. [[Arm Mechanical|Mechanical Models]]
 		2. [[Robot Development Board]] - *STM32F4-based robotics/embedded projects development board, brain of projects*
