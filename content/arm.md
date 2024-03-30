@@ -1,5 +1,6 @@
-Progress: [[arm to-do]]
-Github Repository: https://github.com/ErnestWang31/arm
+to do list: [[arm to-do]]
+GitHub Repository: https://github.com/ErnestWang31/arm
+## Progress:
 ### February 27, 2024:
 - Hardware design kinda completed? - its very bad
 - Mechanical Model began
@@ -15,8 +16,9 @@ Github Repository: https://github.com/ErnestWang31/arm
 - [[Robot Development Board]] in progress
 #### Mechanical Model:
 - In progress, no real hardware components added
-![[Pasted image 20240330161743.png]]
+![[Pasted image 20240330161743.png|400]]
+![[Dummy v164 v4 1.mp4]] little fun animation
 #### Driver Powered on
 - Lights up, but no movement
-- 3D printed base model to verify button and power input tolerances
-![Pasted image 20240329230822.png](app://b1996a573e6292a4175f9233f4f90ed944f7/Users/ernest/Desktop/0%20Life/0.3%20Personal%20Obisdian/Images/Pasted%20image%2020240329230822.png?1711768102134)
+- 3D printed base model to verify button and power input fitting tolerances
+![[Pasted image 20240330164317.png]]

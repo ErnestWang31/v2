@@ -1,4 +1,3 @@
-# Hi, Ernest here!
 *Site in progress...*
 #### [[Mechatronics Engineering|Mechatronics]] @ UWaterloo
 ##### Experiences:
