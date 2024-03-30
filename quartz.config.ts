@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Ernest Wang's Personal Site",
+    pageTitle: "Ernest Wang",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -16,8 +16,8 @@ const config: QuartzConfig = {
     theme: {
       cdnCaching: true,
       typography: {
-        header: "Apple LiSung",
-        body: "Apple LiSung",
+        header: "Montserrat",
+        body: "Montserrat",
         code: "IBM Plex Mono",
       },
       colors: {
