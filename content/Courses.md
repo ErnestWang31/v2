@@ -1,0 +1,4 @@
+- MTE203: Advanced Calculus
+- MTE220: Sensors and Instrumentation
+- MTE241: Real-time Operating System
+- MTE252: Linear Systems and Signals
