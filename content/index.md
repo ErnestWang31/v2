@@ -2,9 +2,9 @@
 title: Hi, my name is Ernest
 ---
 #### Studying [[Mechatronics Engineering|Mechatronics]] @ UWaterloo
-Interested in all things that move
-Currently building biomechanics systems
-Some of the interesting courses I've taken: [[Courses]]
+- Interested in all things that move
+- Currently building biomechanics systems
+- Some of the interesting courses I've taken: [[Courses]]
 ##### Experiences:
 - Incoming [[Automotive R&D @ Geotab Inc.]] - Researching and implementing methods of reverse engineering EV control software and hardware for [Geotab telemetry products]()
 - [[Mechatronics R&D Intern @ BRP]] - Research & development of control software and hardware for off-roading side-by-side vehicles accessories
@@ -13,9 +13,6 @@ Some of the interesting courses I've taken: [[Courses]]
 - [[UW RoboSoccer]] - Developing mini humanoid robots to play soccer 
 - [[Dummy Robotics Arm]] - Ground up development of a multi-application robotics arm - [whitepaper]()
 - [[Robotics Hand]]
-##### Design Teams:
-- [[Firmware @ Waterloop]]
-- [[Batteries @ Midnight Sun]]
 ##### Interests:
 - I play soccer
 - I run and bike - [Strava](https://strava.app.link/0cGqWokPRHb)
