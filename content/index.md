@@ -16,4 +16,4 @@ title: Hi, my name is Ernest
 ##### Interests:
 - I play soccer
 - I run and bike - [Strava](https://strava.app.link/0cGqWokPRHb)
-- I lover music - [Spotify](spotify.com)
+- I lover music - [Spotify](https://open.spotify.com/user/ernestwang135791?si=eb867f3241e14a72)
