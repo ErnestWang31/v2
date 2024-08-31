@@ -16,20 +16,20 @@ const config: QuartzConfig = {
     theme: {
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Georgia",
+        body: "Avenir",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#FFFFFF",       // Aqua blue, for a refreshing, clean background
+          lightgray: "#F2F5F3",   // Light cool gray, for elegant borders and soft contrasts
+          gray: "#78909c",        // Cool slate, for graph links and prominent borders
+          darkgray: "#010001",    // Deep charcoal, for body text that stands out against the lighter background
+          dark: "#010001",        // Midnight blue, for header text and icons, giving a bold, modern look
+          secondary: "#010001",   // Vivid pink, for links that pop with energy and creativity
+          tertiary: "#010001",    // Electric violet, for hover states and visited links, adding a futuristic touch
+          highlight: "#F2F5F3", // Light teal, for internal link backgrounds, highlighted text, and highlighted code, keeping the cool tone
         },
         darkMode: {
           light: "#161618",
