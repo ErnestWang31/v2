@@ -6,13 +6,11 @@ title: Hi, I'm Ernest!
 | :---------------: | :-----------------------------: | :----------------: | :-------------: | :---------------: | :-------------------: |
 | ![[BRP.png\|100]] | ![[Cropped_Image (2).png\|100]] | ![[bike.png\|100]] | ![[U.png\|100]] | ![[run.png\|100]] | ![[rainbow.png\|100]] |
 
-Currently working developing telematics firmware and mechanical at [Geotab](https://www.geotab.com/)
+Incoming @ Tesla for Dojo supercomputer hardware
 
 Working on a budget-friendly mini humanoid robotics platform with [[UW RoboSoccer]]
 
-Previously Product Development for SxS Vehicles@ [BRP](https://www.brp.com/en/)
-
-Mechatronics @ Paragon Systems
+Previously firmware @ [Geotab](https://www.geotab.com/), product development for SxS Vehicles@ [BRP](https://www.brp.com/en/), mechatronics @ Paragon Systems
 
 Follow my [Strava](https://strava.app.link/0cGqWokPRHb) and [Spotify](https://open.spotify.com/user/ernestwang135791?si=eb867f3241e14a72)!
 
