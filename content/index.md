@@ -13,7 +13,7 @@ previously @ Tesla working on Dojo system to accelerate compute
 Follow me on [Strava](https://strava.app.link/0cGqWokPRHb) and [Spotify](https://open.spotify.com/user/ernestwang135791?si=eb867f3241e14a72)
 
 
-###### Projects:
+###### Projects ([Updated PDF Portfolio](https://docs.google.com/document/d/1gYogqMujj_HibcwkqK_bq0ICjCsT7KpTOfW5UnUG7ms/edit?tab=t.0)):
 
 |                                                                            |                                                                                                 |                                                                                                         |
 | :------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
