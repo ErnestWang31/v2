@@ -16,8 +16,8 @@ const config: QuartzConfig = {
     theme: {
       cdnCaching: true,
       typography: {
-        header: "Merriweather",
-        body: "Lato",
+        header: "Inter",
+        body: "Inter",
         code: "Inconsolata",
       },
       colors: {

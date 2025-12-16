@@ -1,16 +1,12 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import EmptyFooter from "./quartz/components/EmptyFooter"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/ErnestWang31",
-      "LinkedIn": "https://www.linkedin.com/in/ernest-wang-43017b198/",
-    },
-  }),
+  footer: EmptyFooter(),
 }
 
 // components for pages that display a single page (e.g. a single note)
