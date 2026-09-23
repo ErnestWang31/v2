@@ -30,6 +30,7 @@ body {
   font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
+  cursor: url("./climbing-hold.svg") 16 16, auto;
 }
 
 main {
@@ -87,6 +88,7 @@ a {
   color: inherit;
   text-decoration-color: var(--line);
   text-underline-offset: 3px;
+  cursor: url("./climbing-hold.svg") 16 16, pointer;
 }
 
 a:hover {
