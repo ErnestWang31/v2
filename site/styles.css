@@ -100,44 +100,17 @@ a:hover {
 .project {
   display: flex;
   align-items: center;
-  gap: 0.8rem;
-  padding: 0.7rem 0;
+  gap: 0.9rem;
+  padding: 0.65rem 0;
   border-bottom: 1px solid var(--line);
   text-decoration: none;
 }
 
 .project img {
-  width: 34px;
-  height: 34px;
-  flex: 0 0 34px;
-  padding: 4px;
+  width: 48px;
+  height: 48px;
+  flex: 0 0 48px;
   object-fit: contain;
-  border-radius: 9px;
-  transition: transform 160ms ease;
-}
-
-.project:nth-child(1) img {
-  background: #ddd8ff;
-  transform: rotate(-3deg);
-}
-
-.project:nth-child(2) img {
-  background: #cceee2;
-  transform: rotate(2deg);
-}
-
-.project:nth-child(3) img {
-  background: #ffe0c2;
-  transform: rotate(-2deg);
-}
-
-.project:nth-child(4) img {
-  background: #ffd7df;
-  transform: rotate(3deg);
-}
-
-.project:hover img {
-  transform: rotate(0deg) scale(1.12);
 }
 
 .project-copy {
@@ -168,13 +141,9 @@ a:hover {
 article img,
 article video {
   display: block;
-  width: auto;
-  max-width: min(100%, 300px);
-  max-height: 300px;
+  width: 100%;
   height: auto;
-  margin: 1.5rem auto;
-  object-fit: contain;
-  border-radius: 12px;
+  margin: 1.5rem 0;
 }
 
 article ul {
