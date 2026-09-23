@@ -1,0 +1,152 @@
+:root {
+  color-scheme: light dark;
+  --background: #fafafa;
+  --text: #171717;
+  --muted: #6b6b6b;
+  --line: #dedede;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #151515;
+    --text: #ededed;
+    --muted: #999;
+    --line: #383838;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+  background: var(--background);
+  color: var(--text);
+  font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+main {
+  width: min(100% - 40px, 620px);
+  margin: 0 auto;
+  padding: 12vh 0 10vh;
+}
+
+h1,
+h2,
+h3,
+p,
+ul {
+  margin-top: 0;
+}
+
+h1 {
+  margin-bottom: 0.15rem;
+  font-size: 1.3rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+h2 {
+  margin: 3rem 0 1rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+h3 {
+  margin: 2rem 0 0.4rem;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+p,
+li {
+  font-size: 0.95rem;
+}
+
+.intro {
+  margin: 1.75rem 0 0;
+}
+
+.muted,
+.project span,
+.back {
+  color: var(--muted);
+}
+
+a {
+  color: inherit;
+  text-decoration-color: var(--line);
+  text-underline-offset: 3px;
+}
+
+a:hover {
+  text-decoration-color: currentColor;
+}
+
+.projects {
+  border-top: 1px solid var(--line);
+}
+
+.project {
+  display: flex;
+  justify-content: space-between;
+  gap: 1.5rem;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--line);
+  text-decoration: none;
+}
+
+.project span {
+  font-size: 0.85rem;
+  white-space: nowrap;
+}
+
+.links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1rem;
+}
+
+.back {
+  display: inline-block;
+  margin-bottom: 2.5rem;
+  font-size: 0.85rem;
+}
+
+article img,
+article video {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 1.5rem 0;
+}
+
+article ul {
+  padding-left: 1.2rem;
+}
+
+@media (max-width: 480px) {
+  main {
+    width: min(100% - 32px, 620px);
+    padding-top: 8vh;
+  }
+
+  .project {
+    display: block;
+  }
+
+  .project span {
+    display: block;
+    margin-top: 0.1rem;
+  }
+}
