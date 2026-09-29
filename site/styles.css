@@ -1,17 +1,17 @@
 :root {
   color-scheme: light dark;
-  --background: #fafafa;
-  --text: #171717;
-  --muted: #6b6b6b;
-  --line: #dedede;
+  --background: #ffffff;
+  --text: #000000;
+  --muted: #666666;
+  --line: #dddddd;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #151515;
-    --text: #ededed;
-    --muted: #999;
-    --line: #383838;
+    --background: #000000;
+    --text: #ffffff;
+    --muted: #aaaaaa;
+    --line: #333333;
   }
 }
 
