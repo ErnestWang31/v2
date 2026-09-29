@@ -1,20 +1,17 @@
 :root {
   color-scheme: light dark;
-  --navy: #2f4275;
-  --red: #df2937;
-  --cream: #ffe9a6;
-  --background: var(--cream);
-  --text: var(--navy);
-  --muted: #657092;
-  --line: rgb(47 66 117 / 24%);
+  --background: #fafafa;
+  --text: #171717;
+  --muted: #6b6b6b;
+  --line: #dedede;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: var(--navy);
-    --text: var(--cream);
-    --muted: #d8c98f;
-    --line: rgb(255 233 166 / 25%);
+    --background: #151515;
+    --text: #ededed;
+    --muted: #999;
+    --line: #383838;
   }
 }
 
@@ -33,22 +30,7 @@ body {
   font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
-}
-
-body::before {
-  content: "";
-  position: fixed;
-  z-index: 20;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 5px;
-  background: linear-gradient(90deg, var(--navy) 0 33.333%, var(--red) 33.333% 66.666%, var(--cream) 66.666%);
-}
-
-::selection {
-  background: var(--red);
-  color: var(--cream);
+  cursor: url("./climbing-hold.svg") 16 16, auto;
 }
 
 main {
@@ -70,7 +52,6 @@ h1 {
   font-size: 1.3rem;
   font-weight: 600;
   letter-spacing: -0.02em;
-  color: var(--red);
 }
 
 h2 {
@@ -79,7 +60,7 @@ h2 {
   font-weight: 500;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: var(--red);
+  color: var(--muted);
 }
 
 h3 {
@@ -107,10 +88,10 @@ a {
   color: inherit;
   text-decoration-color: var(--line);
   text-underline-offset: 3px;
+  cursor: url("./climbing-hold.svg") 16 16, pointer;
 }
 
 a:hover {
-  color: var(--red);
   text-decoration-color: currentColor;
 }
 
@@ -124,22 +105,7 @@ a:hover {
   gap: 1.5rem;
   padding: 0.75rem 0;
   border-bottom: 1px solid var(--line);
-  border-radius: 7px;
   text-decoration: none;
-  transition: margin 150ms ease, padding 150ms ease, color 150ms ease, background 150ms ease;
-}
-
-.project:hover {
-  margin-right: -0.8rem;
-  margin-left: -0.8rem;
-  padding-right: 0.8rem;
-  padding-left: 0.8rem;
-  color: var(--cream);
-  background: var(--red);
-}
-
-.project:hover span {
-  color: var(--cream);
 }
 
 .project span {
@@ -151,10 +117,6 @@ a:hover {
   display: flex;
   flex-wrap: wrap;
   gap: 0.35rem 1rem;
-}
-
-.links a {
-  text-decoration-color: var(--red);
 }
 
 .back {
