@@ -98,7 +98,7 @@ a:hover {
   border-top: 1px solid var(--line);
 }
 
-.experience-item {
+.experience .experience-item {
   display: grid;
   grid-template-columns: 7rem 1fr;
   gap: 1.5rem;
