@@ -44,7 +44,7 @@ body::before {
   background: url("./interstellar-bg.jpg") center bottom / cover no-repeat;
   filter: grayscale(1) contrast(1.08);
   opacity: 0.06;
-  transform: scale(1.12);
+  transform: scale(1.35);
 }
 
 main {
