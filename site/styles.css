@@ -93,8 +93,27 @@ a:hover {
   text-decoration-color: currentColor;
 }
 
+.experience,
 .projects {
   border-top: 1px solid var(--line);
+}
+
+.experience-item {
+  display: grid;
+  grid-template-columns: 7rem 1fr;
+  gap: 1.5rem;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.experience-item a {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.experience-item span {
+  color: var(--muted);
+  font-size: 0.85rem;
 }
 
 .project {
@@ -143,6 +162,15 @@ article ul {
 
   .project {
     display: block;
+  }
+
+  .experience-item {
+    display: block;
+  }
+
+  .experience-item span {
+    display: block;
+    margin-top: 0.1rem;
   }
 
   .project span {
